@@ -1,0 +1,7 @@
+PyTumblr==0.0.6
+httplib2==0.9
+httpretty==0.8.3
+multipart-encode==0.1.0
+oauth2==1.5.211
+poster==0.8.1
+urllib3==1.7.1
